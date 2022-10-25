@@ -1,2 +1,2 @@
 # instagram-video-downloader
-https://mollygram.com/
+Click here https://mollygram.com
